@@ -10,5 +10,5 @@ run:
   args:
     - -c
     - |
-      apk install py-pip python-dev libffi-dev openssl-dev gcc libc-dev make
+      apk add py-pip python-dev libffi-dev openssl-dev gcc libc-dev make
 
